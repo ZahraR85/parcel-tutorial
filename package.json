@@ -1,6 +1,6 @@
 {
   "name": "parcel-tutorial",
-  "source": "index.html",
+  "source": ["index.html", "./src/about.html"],
   "version": "1.0.0",
   "scripts": {
     "dev": "parcel",
